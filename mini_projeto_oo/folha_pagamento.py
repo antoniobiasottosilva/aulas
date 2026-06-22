@@ -67,8 +67,8 @@ class Gerente(Funcionario):
 
 funcionarios = [
     CLT("Ana", "001", 3000.00),
-    Vendedor("Bruno", "002", 2000.00, 12000.00),
-    Gerente("Carla", "003", 5000.00),
+    Vendedor("Jorge", "002", 2000.00, 12000.00),
+    Gerente("CARRO", "003", 5000.00),
 ]
 
 for func in funcionarios:
