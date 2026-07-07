@@ -26,3 +26,4 @@ def produtos_disponiveis():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
